@@ -2,9 +2,9 @@
 
 I am learning software development.
 
-# My goals
+## My Learning goals
 - Learn HTML and CSS
-- Learn Javascript
+- Learn JavaScript
 - Learn Python
 - Build real-world
 projects
