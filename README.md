@@ -10,5 +10,5 @@ I am learning software development.
 projects
 - Develop AI automation skills
 
-##My Mission 
+## My Mission 
 Learn, build, practise and turn valuable technical skills into real opportunities.
